@@ -1,5 +1,8 @@
 # cadEcommer.php
-![foto](img)
+![foto](img/Gravação%20de%20Tela%202024-07-24%20091952.gif)
+![foto](img/Gravação%20de%20Tela%202024-07-24%20092748.gif)
+![foto](img/Gravação%20de%20Tela%202024-07-24%20095407.gif)
+
  
  
  
@@ -32,10 +35,8 @@
  
 * VsCode
  * HTML
- * Git
  * Github
  * CSS
-* js
 * php
 
 ## 📄 Aprendizados
